@@ -57,5 +57,6 @@ int main()
 
 	mk.inputMK();
 	mk.tampil();
+
 }
 
